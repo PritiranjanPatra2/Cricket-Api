@@ -1,3 +1,6 @@
+import { Console } from "console"
+
+
  export const data=[
     {
       "id": 1,
@@ -120,4 +123,5 @@
       }
     }
   ]
+  
   

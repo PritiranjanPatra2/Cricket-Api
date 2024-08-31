@@ -1,5 +1,6 @@
 import express from 'express';
-import { data } from './data.js';
+import { data } from '../data.js';
+// import { data } from '../api/data.js';
 
 console.log(data);
 
